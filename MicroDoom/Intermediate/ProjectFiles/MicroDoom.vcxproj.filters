@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MicroDoom.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C4664C83-CAF3-4CC3-9510-2237D23DE3C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MicroDoom.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MicroDoomEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F4AC990C-F941-48DD-AF38-334E5A76CCBE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MicroDoom">
+      <UniqueIdentifier>{1A48A1EE-8495-4480-B795-32F18EB31B54}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MicroDoom\MicroDoom.Build.cs">
+      <Filter>Source\MicroDoom</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MicroDoom\MicroDoom.cpp">
+      <Filter>Source\MicroDoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MicroDoom\MicroDoom.h">
+      <Filter>Source\MicroDoom</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MicroDoom\MicroDoomGameModeBase.cpp">
+      <Filter>Source\MicroDoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MicroDoom\MicroDoomGameModeBase.h">
+      <Filter>Source\MicroDoom</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

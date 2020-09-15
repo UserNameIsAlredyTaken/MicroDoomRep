@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MicroDoom",
+			"Path": "C:\\Projects\\MicroDoomRep\\MicroDoom\\Source\\MicroDoom.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MicroDoomEditor",
+			"Path": "C:\\Projects\\MicroDoomRep\\MicroDoom\\Source\\MicroDoomEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

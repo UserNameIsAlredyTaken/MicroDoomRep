@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\MicroDoomRep\\MicroDoom\\Source\\MicroDoom\\MicroDoom.Build.cs",
+		"C:\\Projects\\MicroDoomRep\\MicroDoom\\Source\\MicroDoom.Target.cs",
+		"C:\\Projects\\MicroDoomRep\\MicroDoom\\Source\\MicroDoomEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

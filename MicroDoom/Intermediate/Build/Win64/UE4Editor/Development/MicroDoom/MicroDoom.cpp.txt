@@ -1,0 +1,2 @@
+C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\Definitions.MicroDoom.h
+C:\Projects\MicroDoomRep\MicroDoom\Source\MicroDoom\MicroDoom.h
