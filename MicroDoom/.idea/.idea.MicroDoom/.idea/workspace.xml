@@ -14,23 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e23420a9-ccba-4708-8d9f-8430b60cdf2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MicroDoom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MicroDoom/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Characters/BP_Hero.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Characters/BP_Hero.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Core/Characters/BP_BaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Core/Characters/BP_BaseCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/TestMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/MicroDoomEditor/ActionHistory.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/MicroDoomEditor/ActionHistory.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/MicroDoomEditor/Development/HotReload.state" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/MicroDoomEditor/Development/HotReload.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/MicroDoomEditor/Development/Metadata-HotReload.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/MicroDoomEditor/Development/Metadata-HotReload.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Input.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Config/CoalescedSourceConfigs/Input.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Characters/BP_Hero_Auto2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Characters/BP_Hero_Auto2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Characters/BP_Hero_Auto3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Characters/BP_Hero_Auto3.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Maps/TestMap_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Maps/TestMap_Auto1.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Game.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Game.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/MicroDoom.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/MicroDoom.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,10 +158,11 @@
       <option name="presentableId" value="Default" />
       <updated>1600157197792</updated>
       <workItem from="1600157330284" duration="2271000" />
+      <workItem from="1600274799747" duration="135000" />
     </task>
     <servers />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -184,6 +174,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
