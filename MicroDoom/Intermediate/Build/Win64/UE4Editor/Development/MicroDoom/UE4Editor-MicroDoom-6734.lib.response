@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MicroDoom-6734.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\MicroDoomEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\MicroDoom.cpp.obj"
+"C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\MicroDoomGameModeBase.cpp.obj"
+"C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\MicroDoom.init.gen.cpp.obj"
+"C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\MicroDoomGameModeBase.gen.cpp.obj"
+"C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\Default.rc2.res"
+/OUT:"C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\UE4Editor-MicroDoom-6734.lib"
+/INCLUDE:IMPLEMENT_MODULE_MicroDoom
