@@ -1745,3 +1745,1304 @@ Script call stack:
 [2020.11.10-18.05.33:698][115]LogContentValidation: Display: Validating AnimMontage /Game/ParagonTerra/Characters/Heroes/Terra/Animations/Primary_Melee_C_slow_Montage.Primary_Melee_C_slow_Montage
 [2020.11.10-18.05.33:698][115]LogContentValidation: Display: Validating AnimMontage /Game/ParagonTerra/Characters/Heroes/Terra/Animations/Primary_Melee_D_slow_Montage.Primary_Melee_D_slow_Montage
 [2020.11.10-18.05.33:698][115]LogContentValidation: Display: Validating ParticleSystem /Game/TrailPack/Particles/Speed/Sword_Trail/P_SpeedTrail1.P_SpeedTrail1
+[2020.11.10-18.06.37:024][924]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.11.10-18.06.37:417][924]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.11.10-18.11.12:400][959]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.11.10-18.11.12:782][959]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.11.10-18.19.48:058][661]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.11.10-18.19.48:422][661]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.11.10-18.19.52:267][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.10-18.33.12:722][474]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Projects/MicroDoomRep/MicroDoom/RawContent/Terra_Bercerk.fbx)
+[2020.11.10-18.33.12:760][474]LogFbx: Loading FBX Scene from ../../../../../../Projects/MicroDoomRep/MicroDoom/RawContent/Terra_Bercerk.fbx
+[2020.11.10-18.33.12:898][474]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.10-18.33.34:323][474]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.10-18.33.34:430][474]LogFbx: Warning: Not valid bind pose for Pose (Terra_MountainForge) - Node Terra_MountainForge.001 : The relative matrices do not match
+[2020.11.10-18.33.34:430][474]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.11.10-18.33.34:435][474]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Terra_MountainForge.001
+[2020.11.10-18.33.34:435][474]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.11.10-18.33.35:873][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/M_Terra_Cloth_MountainForge.M_Terra_Cloth_MountainForge needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.35:875][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Cloth_MountainForge, compiling. 
+[2020.11.10-18.33.35:941][474]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.11.10-18.33.35:941][474]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.11.10-18.33.35:941][474]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.11.10-18.33.35:944][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Cloth_MountainForge, compiling. 
+[2020.11.10-18.33.35:999][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Body_MountainForge.MI_Terra_Body_MountainForge needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:089][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Body_MountainForge, compiling. 
+[2020.11.10-18.33.36:127][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Body_MountainForge, compiling. 
+[2020.11.10-18.33.36:179][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/M_Terra_TearLine_Demo.M_Terra_TearLine_Demo needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:187][474]LogMaterial: Display: Missing cached shader map for material M_Terra_TearLine_Demo, compiling. 
+[2020.11.10-18.33.36:220][474]LogMaterial: Display: Missing cached shader map for material M_Terra_TearLine_Demo, compiling. 
+[2020.11.10-18.33.36:259][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_RefractiveEye_Blue.MI_Terra_RefractiveEye_Blue needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:283][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_RefractiveEye_Blue, compiling. 
+[2020.11.10-18.33.36:319][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_RefractiveEye_Blue, compiling. 
+[2020.11.10-18.33.36:360][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_EyelashMaster.MI_Terra_EyelashMaster needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:387][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_EyelashMaster, compiling. 
+[2020.11.10-18.33.36:420][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_EyelashMaster, compiling. 
+[2020.11.10-18.33.36:461][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/M_Terra_Eye_Occlusion_Demo.M_Terra_Eye_Occlusion_Demo needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:486][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Eye_Occlusion_Demo, compiling. 
+[2020.11.10-18.33.36:519][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Eye_Occlusion_Demo, compiling. 
+[2020.11.10-18.33.36:554][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_HairPonytail_Blue.MI_Terra_HairPonytail_Blue needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:577][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_HairPonytail_Blue, compiling. 
+[2020.11.10-18.33.36:613][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_HairPonytail_Blue, compiling. 
+[2020.11.10-18.33.36:653][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/M_Terra_Helmet_MountainForge.M_Terra_Helmet_MountainForge needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:698][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Helmet_MountainForge, compiling. 
+[2020.11.10-18.33.36:738][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Helmet_MountainForge, compiling. 
+[2020.11.10-18.33.36:792][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Skin_MountainForge.MI_Terra_Skin_MountainForge needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:810][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Skin_MountainForge, compiling. 
+[2020.11.10-18.33.36:855][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Skin_MountainForge, compiling. 
+[2020.11.10-18.33.36:913][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Shoulders_MountainForge.MI_Terra_Shoulders_MountainForge needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.36:935][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Shoulders_MountainForge, compiling. 
+[2020.11.10-18.33.36:976][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Shoulders_MountainForge, compiling. 
+[2020.11.10-18.33.37:019][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/M_Terra_Mouth_MId_color_Demo.M_Terra_Mouth_MId_color_Demo needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.37:042][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Mouth_MId_color_Demo, compiling. 
+[2020.11.10-18.33.37:080][474]LogMaterial: Display: Missing cached shader map for material M_Terra_Mouth_MId_color_Demo, compiling. 
+[2020.11.10-18.33.37:120][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Hair_Blue.MI_Terra_Hair_Blue needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.37:141][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Hair_Blue, compiling. 
+[2020.11.10-18.33.37:175][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Hair_Blue, compiling. 
+[2020.11.10-18.33.37:207][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/M_Terra_PonyhairInside_Blue.M_Terra_PonyhairInside_Blue needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.37:228][474]LogMaterial: Display: Missing cached shader map for material M_Terra_PonyhairInside_Blue, compiling. 
+[2020.11.10-18.33.37:264][474]LogMaterial: Display: Missing cached shader map for material M_Terra_PonyhairInside_Blue, compiling. 
+[2020.11.10-18.33.37:302][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Legs_MountainForge.MI_Terra_Legs_MountainForge needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.37:327][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Legs_MountainForge, compiling. 
+[2020.11.10-18.33.37:364][474]LogMaterial: Display: Missing cached shader map for material MI_Terra_Legs_MountainForge, compiling. 
+[2020.11.10-18.33.37:403][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Fbx_Default_Material_18.Fbx_Default_Material_18 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.37:422][474]LogMaterial: Display: Missing cached shader map for material Fbx_Default_Material_18, compiling. 
+[2020.11.10-18.33.37:458][474]LogMaterial: Display: Missing cached shader map for material Fbx_Default_Material_18, compiling. 
+[2020.11.10-18.33.37:494][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Fbx_Default_Material_19.Fbx_Default_Material_19 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.37:511][474]LogMaterial: Display: Missing cached shader map for material Fbx_Default_Material_19, compiling. 
+[2020.11.10-18.33.37:545][474]LogMaterial: Display: Missing cached shader map for material Fbx_Default_Material_19, compiling. 
+[2020.11.10-18.33.37:584][474]LogMaterial: Display: Material /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Fbx_Default_Material_20.Fbx_Default_Material_20 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-18.33.37:601][474]LogMaterial: Display: Missing cached shader map for material Fbx_Default_Material_20, compiling. 
+[2020.11.10-18.33.37:637][474]LogMaterial: Display: Missing cached shader map for material Fbx_Default_Material_20, compiling. 
+[2020.11.10-18.33.37:889][474]LogFbx: Warning: Bones digested - 154  Depth of hierarchy - 13
+[2020.11.10-18.33.41:394][474]LogSkeletalMesh: Section 0: 66 vertices, 8 active bones
+[2020.11.10-18.33.41:395][474]LogSkeletalMesh: Section 1: 2902 vertices, 5 active bones
+[2020.11.10-18.33.41:395][474]LogSkeletalMesh: Section 2: 392 vertices, 5 active bones
+[2020.11.10-18.33.41:395][474]LogSkeletalMesh: Section 3: 416 vertices, 2 active bones
+[2020.11.10-18.33.41:396][474]LogSkeletalMesh: Section 4: 942 vertices, 5 active bones
+[2020.11.10-18.33.41:396][474]LogSkeletalMesh: Section 5: 102 vertices, 5 active bones
+[2020.11.10-18.33.41:396][474]LogSkeletalMesh: Section 6: 2035 vertices, 16 active bones
+[2020.11.10-18.33.41:396][474]LogSkeletalMesh: Section 7: 2566 vertices, 5 active bones
+[2020.11.10-18.33.41:398][474]LogSkeletalMesh: Section 8: 3538 vertices, 36 active bones
+[2020.11.10-18.33.41:402][474]LogSkeletalMesh: Section 9: 10162 vertices, 8 active bones
+[2020.11.10-18.33.41:403][474]LogSkeletalMesh: Section 10: 348 vertices, 3 active bones
+[2020.11.10-18.33.41:403][474]LogSkeletalMesh: Section 11: 414 vertices, 5 active bones
+[2020.11.10-18.33.41:403][474]LogSkeletalMesh: Section 12: 202 vertices, 5 active bones
+[2020.11.10-18.33.41:403][474]LogSkeletalMesh: Section 13: 1892 vertices, 2 active bones
+[2020.11.10-18.33.41:409][474]LogSkeletalMesh: Section 14: 13085 vertices, 59 active bones
+[2020.11.10-18.33.41:410][474]LogSkeletalMesh: Section 15: 3658 vertices, 16 active bones
+[2020.11.10-18.33.41:410][474]LogSkeletalMesh: Section 16: 130 vertices, 1 active bones
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 0: Material=0, 80 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 1: Material=1, 5096 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 2: Material=2, 580 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 3: Material=3, 748 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 4: Material=4, 1172 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 5: Material=5, 144 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 6: Material=6, 2314 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 7: Material=7, 4448 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 8: Material=8, 6396 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 9: Material=9, 18780 triangles
+[2020.11.10-18.33.41:418][474]LogSkeletalMesh: Section 10: Material=10, 572 triangles
+[2020.11.10-18.33.41:419][474]LogSkeletalMesh: Section 11: Material=11, 516 triangles
+[2020.11.10-18.33.41:419][474]LogSkeletalMesh: Section 12: Material=12, 316 triangles
+[2020.11.10-18.33.41:419][474]LogSkeletalMesh: Section 13: Material=13, 3524 triangles
+[2020.11.10-18.33.41:419][474]LogSkeletalMesh: Section 14: Material=14, 22162 triangles
+[2020.11.10-18.33.41:419][474]LogSkeletalMesh: Section 15: Material=15, 6782 triangles
+[2020.11.10-18.33.41:419][474]LogSkeletalMesh: Section 16: Material=16, 192 triangles
+[2020.11.10-18.33.41:438][474]LogSkeletalMesh: Building Skeletal Mesh Terra_Bercerk...
+[2020.11.10-18.33.43:504][474]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 663
+[2020.11.10-18.33.44:005][474]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 653
+[2020.11.10-18.33.44:091][474]LogSkeletalMesh: Section 0: 66 vertices, 8 active bones
+[2020.11.10-18.33.44:092][474]LogSkeletalMesh: Section 1: 2902 vertices, 5 active bones
+[2020.11.10-18.33.44:092][474]LogSkeletalMesh: Section 2: 392 vertices, 5 active bones
+[2020.11.10-18.33.44:092][474]LogSkeletalMesh: Section 3: 416 vertices, 2 active bones
+[2020.11.10-18.33.44:092][474]LogSkeletalMesh: Section 4: 942 vertices, 5 active bones
+[2020.11.10-18.33.44:092][474]LogSkeletalMesh: Section 5: 102 vertices, 5 active bones
+[2020.11.10-18.33.44:092][474]LogSkeletalMesh: Section 6: 2035 vertices, 16 active bones
+[2020.11.10-18.33.44:093][474]LogSkeletalMesh: Section 7: 2566 vertices, 5 active bones
+[2020.11.10-18.33.44:093][474]LogSkeletalMesh: Section 8: 3538 vertices, 36 active bones
+[2020.11.10-18.33.44:096][474]LogSkeletalMesh: Section 9: 10162 vertices, 8 active bones
+[2020.11.10-18.33.44:096][474]LogSkeletalMesh: Section 10: 348 vertices, 3 active bones
+[2020.11.10-18.33.44:096][474]LogSkeletalMesh: Section 11: 414 vertices, 5 active bones
+[2020.11.10-18.33.44:096][474]LogSkeletalMesh: Section 12: 202 vertices, 5 active bones
+[2020.11.10-18.33.44:097][474]LogSkeletalMesh: Section 13: 1892 vertices, 2 active bones
+[2020.11.10-18.33.44:101][474]LogSkeletalMesh: Section 14: 13085 vertices, 59 active bones
+[2020.11.10-18.33.44:103][474]LogSkeletalMesh: Section 15: 3658 vertices, 16 active bones
+[2020.11.10-18.33.44:103][474]LogSkeletalMesh: Section 16: 130 vertices, 1 active bones
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 0: Material=0, 80 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 1: Material=1, 5096 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 2: Material=2, 580 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 3: Material=3, 748 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 4: Material=4, 1172 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 5: Material=5, 144 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 6: Material=6, 2314 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 7: Material=7, 4448 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 8: Material=8, 6396 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 9: Material=9, 18780 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 10: Material=10, 572 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 11: Material=11, 516 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 12: Material=12, 316 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 13: Material=13, 3524 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 14: Material=14, 22162 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 15: Material=15, 6782 triangles
+[2020.11.10-18.33.44:109][474]LogSkeletalMesh: Section 16: Material=16, 192 triangles
+[2020.11.10-18.33.44:390][474]LogSkeletalMesh: Built Skeletal Mesh [2.95s] /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Terra_Bercerk.Terra_Bercerk
+[2020.11.10-18.33.44:462][474]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.33.44:462][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.33.44:618][474]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.10-18.33.54:862][583]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 643
+[2020.11.10-18.33.56:314][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 633
+[2020.11.10-18.33.58:080][624]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 623
+[2020.11.10-18.34.01:164][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.11.10-18.34.03:101][666]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.10-18.34.09:173][666]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 613
+[2020.11.10-18.34.09:173][666]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 603
+[2020.11.10-18.34.09:173][666]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 593
+[2020.11.10-18.34.09:173][666]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Terra_Bercerk_PhysicsAsset.Terra_Bercerk_PhysicsAsset
+[2020.11.10-18.34.12:909][666]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.11.10-18.34.14:006][678]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 583
+[2020.11.10-18.34.17:622][727]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 573
+[2020.11.10-18.34.17:764][729]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 563
+[2020.11.10-18.34.28:371][871]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 553
+[2020.11.10-18.34.32:527][927]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 543
+[2020.11.10-18.34.33:008][934]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 533
+[2020.11.10-18.34.40:492][ 35]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 523
+[2020.11.10-18.34.43:839][ 81]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 513
+[2020.11.10-18.34.44:132][ 85]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 503
+[2020.11.10-18.34.54:572][226]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 493
+[2020.11.10-18.34.54:688][228]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 483
+[2020.11.10-18.34.55:169][233]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 473
+[2020.11.10-18.35.05:170][370]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 463
+[2020.11.10-18.35.06:071][382]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 453
+[2020.11.10-18.35.09:359][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 443
+[2020.11.10-18.35.15:441][507]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 433
+[2020.11.10-18.35.17:631][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 423
+[2020.11.10-18.35.24:794][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 413
+[2020.11.10-18.35.25:464][643]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 403
+[2020.11.10-18.35.26:349][650]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Terra_Bercerk.Terra_Bercerk
+[2020.11.10-18.35.26:368][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.10-18.35.29:808][664]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 393
+[2020.11.10-18.35.33:706][664]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 383
+[2020.11.10-18.35.34:680][665]LogSlate: Window 'Terra_Bercerk' being destroyed
+[2020.11.10-18.35.34:863][666]LogRenderer: Reallocating scene render targets to support 1336x884 Format 10 NumSamples 1 (Frame:19).
+[2020.11.10-18.35.37:832][726]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 373
+[2020.11.10-18.35.38:754][742]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 363
+[2020.11.10-18.35.40:497][765]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.10-18.35.51:241][924]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 353
+[2020.11.10-18.35.55:544][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 343
+[2020.11.10-18.36.00:482][ 60]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 333
+[2020.11.10-18.36.05:926][144]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 323
+[2020.11.10-18.36.09:600][196]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 313
+[2020.11.10-18.36.15:580][283]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 303
+[2020.11.10-18.36.24:366][421]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 293
+[2020.11.10-18.36.24:540][424]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 283
+[2020.11.10-18.36.30:209][505]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 273
+[2020.11.10-18.36.40:295][664]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 263
+[2020.11.10-18.36.41:886][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 253
+[2020.11.10-18.36.46:683][753]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 243
+[2020.11.10-18.36.54:082][869]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 233
+[2020.11.10-18.36.56:930][912]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 223
+[2020.11.10-18.37.01:227][977]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 213
+[2020.11.10-18.37.10:715][195]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 203
+[2020.11.10-18.37.13:737][244]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 193
+[2020.11.10-18.37.19:193][325]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.11.10-18.37.19:976][325]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 183
+[2020.11.10-18.37.21:386][325]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.10-18.37.26:064][325]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 173
+[2020.11.10-18.37.26:064][325]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 163
+[2020.11.10-18.37.26:365][325]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.37.26:365][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.37.26:430][325]LogUObjectGlobals: Force Deleting 17 Package(s):
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Fbx_Default_Material_18.Fbx_Default_Material_18
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Fbx_Default_Material_19.Fbx_Default_Material_19
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Fbx_Default_Material_20.Fbx_Default_Material_20
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Body_MountainForge.MI_Terra_Body_MountainForge
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_EyelashMaster.MI_Terra_EyelashMaster
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Hair_Blue.MI_Terra_Hair_Blue
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_HairPonytail_Blue.MI_Terra_HairPonytail_Blue
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Legs_MountainForge.MI_Terra_Legs_MountainForge
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_RefractiveEye_Blue.MI_Terra_RefractiveEye_Blue
+	Asset Name: /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/MI_Terra_Shoulders_MountainForge.MI_Terra_Shoulders_MountainForge
+[2020.11.10-18.37.28:067][325]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 153
+[2020.11.10-18.37.32:138][325]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 143
+[2020.11.10-18.37.32:377][325]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 133
+[2020.11.10-18.37.40:316][325]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 123
+[2020.11.10-18.37.40:316][325]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 113
+[2020.11.10-18.37.40:316][325]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 103
+[2020.11.10-18.37.40:332][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.11.10-18.37.44:909][376]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 93
+[2020.11.10-18.37.52:316][516]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.10-18.37.53:347][531]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 83
+[2020.11.10-18.37.57:073][589]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 73
+[2020.11.10-18.38.06:355][733]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2020.11.10-18.38.07:278][747]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2020.11.10-18.38.11:131][807]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.11.10-18.38.20:002][945]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2020.11.10-18.38.23:298][995]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.11.10-18.38.25:348][ 27]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.11.10-18.38.33:242][144]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.11.10-18.38.33:487][147]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.11.10-18.38.35:446][176]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.11.10-18.38.36:714][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.11.10-18.38.38:445][194]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.11.10-18.38.40:807][194]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.10-18.38.50:154][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.11.10-18.38.50:158][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MicroDoom/Maps/TestMap' took 0.050
+[2020.11.10-18.38.50:161][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Terra_Bercerk] ([1] browsable assets)...
+[2020.11.10-18.38.50:221][353]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Terra_Bercerk.Terra_Bercerk]
+[2020.11.10-18.38.50:221][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Terra_Bercerk]
+[2020.11.10-18.38.50:592][353]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/Terra_Bercerk_Auto1506BE983404A652312E2A69B409DDB2E.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/Autosaves/Game/ParagonTerra/Characters/Heroes/Terra/Meshes/Terra_Bercerk_Auto1.uasset'
+[2020.11.10-18.38.50:594][353]LogFileHelpers: Auto-saving content packages took 0.437
+[2020.11.10-18.39.01:257][549]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Meshes/Terra_MountainForge.Terra_MountainForge
+[2020.11.10-18.39.01:270][549]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.10-18.39.01:392][549]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.10-18.39.06:208][617]LogSlate: Window 'Terra_MountainForge' being destroyed
+[2020.11.10-18.39.09:258][648]LogSlate: Window 'Terra_MountainForge' being destroyed
+[2020.11.10-18.39.24:103][ 93]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.40.03:913][ 84]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/Terra_Bercerk68B163B641EA80B5807E64A4FA78B828.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Characters/Hero/Meshes/Terra_Bercerk.uasset'
+[2020.11.10-18.40.04:248][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.11.10-18.40.04:312][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.11.10-18.40.04:356][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.11.10-18.40.05:030][ 84]AssetCheck: New page: Asset Save: Terra_Bercerk
+[2020.11.10-18.40.05:030][ 84]LogContentValidation: Display: Validating SkeletalMesh /Game/MicroDoom/Characters/Hero/Meshes/Terra_Bercerk.Terra_Bercerk
+[2020.11.10-18.40.07:257][125]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/MicroDoom/Characters/Hero/Meshes/Terra_Bercerk.Terra_Bercerk
+[2020.11.10-18.40.07:265][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.10-18.40.10:062][161]LogSlate: Window 'Terra_Bercerk' being destroyed
+[2020.11.10-18.49.52:086][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.11.10-18.49.52:622][  5]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/Terra_BercerkF29C065C4B4D79664ECE228368B48169.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Characters/Hero/Meshes/Terra_Bercerk.uasset'
+[2020.11.10-18.49.52:641][  5]AssetCheck: New page: Asset Save: Terra_Bercerk
+[2020.11.10-18.49.52:641][  5]LogContentValidation: Display: Validating SkeletalMesh /Game/MicroDoom/Characters/Hero/Meshes/Terra_Bercerk.Terra_Bercerk
+[2020.11.10-18.49.56:380][ 91]LogCascade: Quitting Cascade. FXSystem=0x000001FF302E9000
+[2020.11.10-18.49.56:512][ 91]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.49.56:513][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.49.57:563][109]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.49.57:563][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.49.58:888][134]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-18.49.58:939][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-18.49.58:940][134]PIE: New page: PIE session: TestMap (11 нояб. 2020 г., 00:49:58)
+[2020.11.10-18.49.58:941][134]LogPlayLevel: Creating play world package: /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.49.58:960][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019474s)
+[2020.11.10-18.49.58:961][134]LogAIModule: Creating AISystem for world TestMap
+[2020.11.10-18.49.58:961][134]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FF65318600), frame # 71134
+[2020.11.10-18.49.58:962][134]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FFAAB6B9C0), frame # 71134
+[2020.11.10-18.49.58:963][134]LogPlayLevel: PIE: World Init took: (0.002294s)
+[2020.11.10-18.49.58:963][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MicroDoom/Maps/TestMap.TestMap to /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap (0.022209s)
+[2020.11.10-18.49.59:029][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.11.10-18.49.59:046][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-18.49.59:046][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-18.49.59:046][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-18.49.59:046][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-18.49.59:046][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-18.49.59:046][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-18.49.59:046][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-18.49.59:046][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-18.49.59:047][134]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-18.49.59:047][134]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-18.49.59:057][134]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-18.49.59:057][134]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-18.49.59:147][134]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.11.10-18.49.59:149][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-18.49.59:149][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-18.49.59:149][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-18.49.59:150][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-18.49.59:177][134]LogInit: FAudioDevice initialized.
+[2020.11.10-18.49.59:236][134]LogLoad: Game class is 'BP_MicroDoomGameMode_C'
+[2020.11.10-18.49.59:239][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.49.59:240][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.49.59:241][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.49.59:242][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.49.59:244][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.49.59:245][134]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.49.59:246][134]LogWorld: Bringing World /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.11.10-21.49.59
+[2020.11.10-18.49.59:251][134]LogWorld: Bringing up level for play took: 0.013106
+[2020.11.10-18.49.59:252][134]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.11.10-18.49.59:265][134]PIE: Server logged in
+[2020.11.10-18.49.59:267][134]PIE: Play in editor total start time 0,328 seconds.
+[2020.11.10-18.50.05:510][312]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.50.10:218][454]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.50.13:790][561]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.50.16:746][650]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.50.23:820][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.50.23:820][869]LogWorld: BeginTearingDown for /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.50.23:820][869]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.50.23:821][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.50.23:835][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-18.50.23:841][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.50.23:909][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.50.23:917][869]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FFAAB6B9C0), frame # 71869
+[2020.11.10-18.50.23:917][869]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FF65318600), frame # 71869
+[2020.11.10-18.50.23:922][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.11.10-18.50.24:023][870]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.11.10-18.50.34:521][ 94]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MicroDoom/Characters/Hero/BP_Hero.BP_Hero
+[2020.11.10-18.50.36:093][ 94]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.50.42:189][190]LogSlate: Window 'BP_Hero' being destroyed
+[2020.11.10-18.51.04:661][ 25]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.04:665][ 25]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.04:668][ 25]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.19:364][595]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.19:366][595]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.19:369][595]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.27:729][956]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.27:731][956]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.27:734][956]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.29:326][ 12]LogSlate: Took 0.010560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.11.10-18.51.57:625][ 49]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.57:628][ 49]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.57:630][ 49]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:441][114]BlueprintLog: New page: Compile BP_Hero
+[2020.11.10-18.51.59:603][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:606][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:607][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:609][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:610][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:612][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:719][114]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.11.10-18.51.59:747][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:749][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:751][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:752][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:779][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:782][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.51.59:784][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.01:279][161]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:098][182]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:204][184]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:278][186]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:330][187]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:357][188]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:402][189]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:452][190]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:494][191]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:537][192]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:600][193]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:667][194]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:747][196]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:838][198]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:910][200]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:959][201]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.02:978][202]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:073][204]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:148][206]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:192][207]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:227][208]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:256][209]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:307][210]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:389][212]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:416][213]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:476][214]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.03:518][215]LogAnimation: Warning: SkeletalMesh Bow_Cylinder has no skeleton. This needs to fixed before an animation can be set
+[2020.11.10-18.52.05:131][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.05:134][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.05:138][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.05:142][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.05:144][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.05:147][258]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:558][107]BlueprintLog: New page: Compile BP_Hero
+[2020.11.10-18.52.51:657][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:660][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:661][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:663][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:664][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:665][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:772][107]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.11.10-18.52.51:794][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:796][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:798][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:799][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:823][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:825][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.51:827][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.53:754][175]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-18.52.53:820][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-18.52.53:820][175]PIE: New page: PIE session: TestMap (11 нояб. 2020 г., 00:52:53)
+[2020.11.10-18.52.53:820][175]LogPlayLevel: Creating play world package: /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.52.53:833][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013185s)
+[2020.11.10-18.52.53:835][175]LogAIModule: Creating AISystem for world TestMap
+[2020.11.10-18.52.53:835][175]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002009548FE00), frame # 77175
+[2020.11.10-18.52.53:835][175]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FF4ABDF380), frame # 77175
+[2020.11.10-18.52.53:835][175]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2020.11.10-18.52.53:835][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MicroDoom/Maps/TestMap.TestMap to /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap (0.015287s)
+[2020.11.10-18.52.53:887][175]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.11.10-18.52.53:890][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-18.52.53:890][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-18.52.53:890][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-18.52.53:890][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-18.52.53:890][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-18.52.53:891][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-18.52.53:891][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-18.52.53:891][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-18.52.53:891][175]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-18.52.53:891][175]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-18.52.53:897][175]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-18.52.53:897][175]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-18.52.53:980][175]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.11.10-18.52.53:980][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-18.52.53:980][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-18.52.53:980][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-18.52.53:981][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-18.52.53:999][175]LogInit: FAudioDevice initialized.
+[2020.11.10-18.52.54:009][175]LogLoad: Game class is 'BP_MicroDoomGameMode_C'
+[2020.11.10-18.52.54:012][175]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.52.54:013][175]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.52.54:014][175]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.52.54:015][175]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.52.54:016][175]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.52.54:016][175]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.52.54:017][175]LogWorld: Bringing World /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.11.10-21.52.54
+[2020.11.10-18.52.54:020][175]LogWorld: Bringing up level for play took: 0.009822
+[2020.11.10-18.52.54:020][175]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.11.10-18.52.54:031][175]PIE: Server logged in
+[2020.11.10-18.52.54:033][175]PIE: Play in editor total start time 0,215 seconds.
+[2020.11.10-18.52.56:568][249]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.53.03:944][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.53.03:944][475]LogWorld: BeginTearingDown for /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.53.03:945][475]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.53.03:946][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.53.03:955][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-18.53.03:962][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.53.04:039][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.53.04:042][475]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FF4ABDF380), frame # 77475
+[2020.11.10-18.53.04:042][475]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002009548FE00), frame # 77475
+[2020.11.10-18.53.04:047][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.11.10-18.53.04:148][476]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.11.10-18.53.27:941][276]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.53.27:947][276]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.53.27:949][276]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.53.56:339][442]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.53.56:345][442]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.53.56:347][442]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.54.04:076][768]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.54.04:080][768]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.54.04:082][768]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.54.07:667][901]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.54.07:676][901]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.54.07:678][901]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.55.33:443][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.11.10-18.55.33:571][ 98]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/TestMap_Auto26887C64B4BFD6C951624C2AE78839338.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/Autosaves/Game/MicroDoom/Maps/TestMap_Auto2.umap'
+[2020.11.10-18.55.33:580][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MicroDoom/Maps/TestMap' took 0.191
+[2020.11.10-18.55.33:580][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.191
+[2020.11.10-18.55.33:580][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MicroDoom/Characters/Hero/BP_Hero] ([1] browsable assets)...
+[2020.11.10-18.55.33:655][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MicroDoom/Characters/Hero/BP_Hero.BP_Hero]
+[2020.11.10-18.55.33:655][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/MicroDoom/Characters/Hero/BP_Hero]
+[2020.11.10-18.55.33:963][ 98]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/BP_Hero_Auto2C2FD784E4FB332FA1402BAADC643CA95.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/Autosaves/Game/MicroDoom/Characters/Hero/BP_Hero_Auto2.uasset'
+[2020.11.10-18.55.33:966][ 98]LogFileHelpers: Auto-saving content packages took 0.386
+[2020.11.10-18.56.33:310][141]BlueprintLog: New page: Compile BP_Hero
+[2020.11.10-18.56.33:404][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:407][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:408][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:410][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:412][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:413][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:500][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.11.10-18.56.33:515][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:517][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:519][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:520][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:547][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:549][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.33:551][141]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.42:191][467]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.42:194][467]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.42:197][467]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.56:818][947]BlueprintLog: New page: Compile BP_Hero
+[2020.11.10-18.56.56:912][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.56:914][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.56:915][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.56:916][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.56:917][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.56:919][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.57:003][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.11.10-18.56.57:014][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.57:016][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.57:018][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.57:019][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.57:040][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.57:042][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.57:044][947]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.58:531][983]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-18.56.58:588][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-18.56.58:588][983]PIE: New page: PIE session: TestMap (11 нояб. 2020 г., 00:56:58)
+[2020.11.10-18.56.58:588][983]LogPlayLevel: Creating play world package: /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.56.58:600][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012031s)
+[2020.11.10-18.56.58:601][983]LogAIModule: Creating AISystem for world TestMap
+[2020.11.10-18.56.58:601][983]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000201344ACA00), frame # 84983
+[2020.11.10-18.56.58:601][983]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FF082711C0), frame # 84983
+[2020.11.10-18.56.58:602][983]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2020.11.10-18.56.58:602][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MicroDoom/Maps/TestMap.TestMap to /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap (0.013814s)
+[2020.11.10-18.56.58:655][983]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.11.10-18.56.58:657][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-18.56.58:657][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-18.56.58:657][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-18.56.58:657][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-18.56.58:657][983]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-18.56.58:658][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-18.56.58:658][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-18.56.58:658][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-18.56.58:658][983]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-18.56.58:658][983]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-18.56.58:663][983]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-18.56.58:663][983]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-18.56.58:736][983]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.11.10-18.56.58:737][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-18.56.58:737][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-18.56.58:737][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-18.56.58:738][983]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-18.56.58:755][983]LogInit: FAudioDevice initialized.
+[2020.11.10-18.56.58:769][983]LogLoad: Game class is 'BP_MicroDoomGameMode_C'
+[2020.11.10-18.56.58:772][983]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.56.58:773][983]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.56.58:774][983]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.56.58:775][983]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.56.58:776][983]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.56.58:777][983]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.56.58:778][983]LogWorld: Bringing World /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.11.10-21.56.58
+[2020.11.10-18.56.58:780][983]LogWorld: Bringing up level for play took: 0.010296
+[2020.11.10-18.56.58:781][983]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.11.10-18.56.58:793][983]PIE: Server logged in
+[2020.11.10-18.56.58:794][983]PIE: Play in editor total start time 0,207 seconds.
+[2020.11.10-18.57.07:792][275]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.57.22:804][762]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.57.29:844][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.57.29:844][985]LogWorld: BeginTearingDown for /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.57.29:844][985]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.57.29:845][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.57.29:861][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-18.57.29:868][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.57.29:947][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.57.29:950][985]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FF082711C0), frame # 85985
+[2020.11.10-18.57.29:950][985]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000201344ACA00), frame # 85985
+[2020.11.10-18.57.29:955][985]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.11.10-18.57.30:047][986]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.11.10-18.57.56:684][860]LogSlate: Window 'Delete Variable' being destroyed
+[2020.11.10-18.57.56:705][860]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.57.56:716][860]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.57.56:720][860]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.57.58:906][899]LogSlate: Window 'Delete Variable' being destroyed
+[2020.11.10-18.57.58:931][899]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.57.58:935][899]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.57.58:938][899]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:715][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:719][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:721][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:734][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:736][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:737][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:750][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:752][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.00:754][962]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.07:589][222]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.07:592][222]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.07:594][222]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.22:847][821]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.22:849][821]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.22:854][821]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.37:552][436]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.37:555][436]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.37:556][436]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:406][847]BlueprintLog: New page: Compile BP_Hero
+[2020.11.10-18.58.47:503][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:505][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:506][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:508][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:509][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:511][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:602][847]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.11.10-18.58.47:612][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:615][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:616][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:617][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:642][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:645][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.58.47:647][847]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.59.10:780][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.11.10-18.59.10:824][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MicroDoom/Maps/TestMap" FILE="../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.10-18.59.10:868][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.10-18.59.10:940][739]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/TestMap5185404044B3FBF0C81F46A2C7E66451.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Maps/TestMap.umap'
+[2020.11.10-18.59.11:030][739]LogFileHelpers: Saving map 'TestMap' took 0.208
+[2020.11.10-18.59.11:031][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MicroDoom/Maps/TestMap_BuiltData" FILE="../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2020.11.10-18.59.11:083][739]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/TestMap_BuiltData1903B5C64C27F2A4B806EEBBE6E1588F.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Maps/TestMap_BuiltData.uasset'
+[2020.11.10-18.59.11:159][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MicroDoom/Characters/Hero/BP_Hero" FILE="../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Characters/Hero/BP_Hero.uasset" SILENT=true
+[2020.11.10-18.59.11:388][739]LogSavePackage: Moving '../../../../../../Projects/MicroDoomRep/MicroDoom/Saved/BP_Hero5280299F4D1CD427844E4CB8FDAA801D.tmp' to '../../../../../../Projects/MicroDoomRep/MicroDoom/Content/MicroDoom/Characters/Hero/BP_Hero.uasset'
+[2020.11.10-18.59.11:435][739]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.10-18.59.11:435][739]LogContentValidation: Display: Validating World /Game/MicroDoom/Maps/TestMap.TestMap
+[2020.11.10-18.59.11:435][739]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MicroDoom/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.11.10-18.59.11:435][739]LogContentValidation: Display: Validating Blueprint /Game/MicroDoom/Characters/Hero/BP_Hero.BP_Hero
+[2020.11.10-18.59.12:997][786]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-18.59.13:072][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-18.59.13:072][786]PIE: New page: PIE session: TestMap (11 нояб. 2020 г., 00:59:13)
+[2020.11.10-18.59.13:073][786]LogPlayLevel: Creating play world package: /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.59.13:090][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016941s)
+[2020.11.10-18.59.13:091][786]LogAIModule: Creating AISystem for world TestMap
+[2020.11.10-18.59.13:091][786]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FF4ADADC00), frame # 89786
+[2020.11.10-18.59.13:091][786]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002006EC15BC0), frame # 89786
+[2020.11.10-18.59.13:092][786]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2020.11.10-18.59.13:092][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MicroDoom/Maps/TestMap.TestMap to /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap (0.019323s)
+[2020.11.10-18.59.13:153][786]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.11.10-18.59.13:156][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-18.59.13:157][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-18.59.13:157][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-18.59.13:157][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-18.59.13:157][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-18.59.13:157][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-18.59.13:157][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-18.59.13:157][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-18.59.13:157][786]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-18.59.13:158][786]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-18.59.13:163][786]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-18.59.13:164][786]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-18.59.13:255][786]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.11.10-18.59.13:256][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-18.59.13:256][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-18.59.13:256][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-18.59.13:257][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-18.59.13:283][786]LogInit: FAudioDevice initialized.
+[2020.11.10-18.59.13:295][786]LogLoad: Game class is 'BP_MicroDoomGameMode_C'
+[2020.11.10-18.59.13:298][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.59.13:300][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.59.13:301][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.59.13:302][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.59.13:304][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Enemies/ShooterEnemy/Animations/ABP_GrimShooter.ABP_GrimShooter_C:ExecuteUbergraph_ABP_GrimShooter
+
+[2020.11.10-18.59.13:305][786]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.59.13:305][786]LogWorld: Bringing World /Game/MicroDoom/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2020.11.10-21.59.13
+[2020.11.10-18.59.13:309][786]LogWorld: Bringing up level for play took: 0.012871
+[2020.11.10-18.59.13:310][786]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.11.10-18.59.13:323][786]PIE: Server logged in
+[2020.11.10-18.59.13:325][786]PIE: Play in editor total start time 0,254 seconds.
+[2020.11.10-18.59.17:809][919]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.59.21:171][ 22]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.59.31:987][376]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.59.32:847][404]LogScript: Warning: Script Msg: Divide by zero detected: -2.218750 / 0
+Script call stack:
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:BlueprintUpdateAnimation
+	Function /Game/MicroDoom/Characters/Hero/Animations/ABP_HeroTerra.ABP_HeroTerra_C:ExecuteUbergraph_ABP_HeroTerra
+
+[2020.11.10-18.59.36:950][538]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.59.39:483][623]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.59.40:132][643]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/MicroDoom/Weapons/Mele/BP_BaseMeleWeapon.BP_BaseMeleWeapon_C:ExecuteUbergraph_BP_BaseMeleWeapon'!
+[2020.11.10-18.59.45:585][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.59.45:585][839]LogWorld: BeginTearingDown for /Game/MicroDoom/Maps/UEDPIE_0_TestMap
+[2020.11.10-18.59.45:585][839]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-18.59.45:586][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.59.45:599][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-18.59.45:606][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-18.59.45:673][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-18.59.45:681][839]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002006EC15BC0), frame # 90839
+[2020.11.10-18.59.45:681][839]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FF4ADADC00), frame # 90839
+[2020.11.10-18.59.45:686][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.11.10-18.59.45:776][840]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.11.10-19.08.40:848][355]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
