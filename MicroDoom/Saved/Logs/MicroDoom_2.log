@@ -18856,3 +18856,41 @@ Script call stack:
 [2020.11.10-17.36.11:142][456]LogContentValidation: Display: Validating ParticleSystem /Game/P_ForgeDip_Firey.P_ForgeDip_Firey
 [2020.11.10-17.36.11:142][456]LogContentValidation: Display: Validating AnimSequence /Game/TrailPack/Particles/Elemental/Elemental.Elemental
 [2020.11.10-17.36.11:142][456]LogContentValidation: Display: Validating ParticleSystem /Game/TrailPack/Particles/Speed/Sword_Trail/P_SpeedTrail1.P_SpeedTrail1
+[2020.11.10-17.36.47:539][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.11.10-17.36.47:760][613]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.47:760][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-17.36.47:817][613]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.47:818][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-17.36.47:830][613]LogCascade: Quitting Cascade. FXSystem=0x000001A495842500
+[2020.11.10-17.36.47:892][613]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.47:892][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-17.36.47:968][613]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.47:968][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-17.36.48:077][613]LogCascade: Quitting Cascade. FXSystem=0x000001A54BD84190
+[2020.11.10-17.36.48:153][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2020.11.10-17.36.48:153][613]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.48:153][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-17.36.48:277][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.10-17.36.48:277][613]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.48:277][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-17.36.48:611][613]LogSlate: Window 'Content Browser' being destroyed
+[2020.11.10-17.36.48:865][613]LogSlate: Window 'MicroDoom - Unreal Editor' being destroyed
+[2020.11.10-17.36.48:868][613]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.10-17.36.50:688][614]Cmd: QUIT_EDITOR
+[2020.11.10-17.36.50:689][614]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.10-17.36.50:704][614]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.10-17.36.51:518][614]LogExit: Preparing to exit.
+[2020.11.10-17.36.52:521][614]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:526][614]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:532][614]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:539][614]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:543][614]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:546][614]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:550][614]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:553][614]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:557][614]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:560][614]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:564][614]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:568][614]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:574][614]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-17.36.52:577][614]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
