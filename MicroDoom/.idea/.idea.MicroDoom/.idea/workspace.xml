@@ -14,12 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e23420a9-ccba-4708-8d9f-8430b60cdf2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Core/Characters/BP_BaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Core/Characters/BP_BaseCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/TestMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/BP_MicroDoomGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/BP_MicroDoomGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/FloorsForged.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/FloorsForged.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/MicroDoom.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/MicroDoom.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,6 +158,7 @@
       <workItem from="1600157330284" duration="2271000" />
       <workItem from="1600274799747" duration="135000" />
       <workItem from="1601799501142" duration="4000" />
+      <workItem from="1607881483958" duration="7000" />
     </task>
     <servers />
   </component>
