@@ -14,9 +14,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e23420a9-ccba-4708-8d9f-8430b60cdf2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Characters/BP_BaseCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Characters/BP_BaseCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Characters/Hero/BP_Hero.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Characters/Hero/BP_Hero.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/BP_MicroDoomGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/BP_MicroDoomGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/LEVELS/Lvl3_Script.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/LEVELS/Lvl3_Script.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/LEVELS/Lvl4_Script.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Gameplay/LEVELS/Lvl4_Script.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/FloorsForged.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/FloorsForged.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/FloorsForgedSaved.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/FloorsForgedSaved.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/Sublevels/Lvl1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/Sublevels/Lvl1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/Sublevels/Lvl2.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/Sublevels/Lvl2.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Maps/Sublevels/Lvl3.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Maps/Sublevels/Lvl3.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Objects/BP_Thorns.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Objects/BP_Thorns.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Sound/Soundtrack/BFG_medieval_Cue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Sound/Soundtrack/BFG_medieval_Cue.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/UI/BP_BerserksUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/UI/BP_BerserksUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/UI/RageKillStreakCounter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/UI/RageKillStreakCounter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_BecameBerserk.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_BecameBerserk.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_CombinationExplanation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_CombinationExplanation.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_ControlScheme.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_ControlScheme.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_HoldToAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_HoldToAttack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_StunExplanation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/UI/Tutor/BP_StunExplanation.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MicroDoom/Weapons/Explosion/BP_ExplosionWeapon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MicroDoom/Weapons/Explosion/BP_ExplosionWeapon.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Characters/Hero/BP_Hero_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/MicroDoom/Characters/Hero/BP_Hero_Auto1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/MicroDoom.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/MicroDoom.log" afterDir="false" />
     </list>
@@ -159,6 +181,7 @@
       <workItem from="1600274799747" duration="135000" />
       <workItem from="1601799501142" duration="4000" />
       <workItem from="1607881483958" duration="7000" />
+      <workItem from="1608400999747" duration="49000" />
     </task>
     <servers />
   </component>
