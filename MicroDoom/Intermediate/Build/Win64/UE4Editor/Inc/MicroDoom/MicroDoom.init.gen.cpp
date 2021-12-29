@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeMicroDoom_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x3CB41878,
+				0xDEEAA769,
 				0x668178D3,
 				METADATA_PARAMS(nullptr, 0)
 			};

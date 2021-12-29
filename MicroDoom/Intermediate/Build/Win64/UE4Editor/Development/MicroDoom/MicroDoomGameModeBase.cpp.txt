@@ -1,7 +1,7 @@
 C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Development\MicroDoom\Definitions.MicroDoom.h
 C:\Projects\MicroDoomRep\MicroDoom\Source\MicroDoom\MicroDoomGameModeBase.h
-C:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Games\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Games\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 C:\Projects\MicroDoomRep\MicroDoom\Intermediate\Build\Win64\UE4Editor\Inc\MicroDoom\MicroDoomGameModeBase.generated.h

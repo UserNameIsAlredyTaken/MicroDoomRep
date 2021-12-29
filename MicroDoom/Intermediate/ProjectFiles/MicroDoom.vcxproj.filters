@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MicroDoom.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C4664C83-CAF3-4CC3-9510-2237D23DE3C0}</UniqueIdentifier>
+      <UniqueIdentifier>{E26BE38A-922D-4AEE-B93C-6CB754BC3C93}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MicroDoom.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\MicroDoomEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F4AC990C-F941-48DD-AF38-334E5A76CCBE}</UniqueIdentifier>
+      <UniqueIdentifier>{2B3762F5-F96D-4E78-8BBE-AABEB30E1126}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +24,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\MicroDoom">
-      <UniqueIdentifier>{1A48A1EE-8495-4480-B795-32F18EB31B54}</UniqueIdentifier>
+      <UniqueIdentifier>{9E56E72A-437F-4CC2-9E0F-F1D975503438}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MicroDoom\MicroDoom.Build.cs">
       <Filter>Source\MicroDoom</Filter>

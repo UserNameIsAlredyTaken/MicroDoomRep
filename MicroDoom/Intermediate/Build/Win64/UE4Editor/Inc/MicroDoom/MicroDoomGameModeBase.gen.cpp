@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeMicroDoomGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMicroDoomGameModeBase, 2159644494);
+	IMPLEMENT_CLASS(AMicroDoomGameModeBase, 622712707);
 	template<> MICRODOOM_API UClass* StaticClass<AMicroDoomGameModeBase>()
 	{
 		return AMicroDoomGameModeBase::StaticClass();
